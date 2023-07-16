@@ -1,6 +1,6 @@
 <h1 align="center">To-Do List</h1>
 
-<h2>Enjoy fully deployed project👉  <a href="https://playhuntt.github.io/Todo-List/">Here</a></h2> 
+<h2>Enjoy fully deployed project👉  <a href="https://priyanshumit.github.io/Todo-List/">Here</a></h2> 
 
 &nbsp;
 ### About 📓
